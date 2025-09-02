@@ -75,7 +75,8 @@ Creating a new user and adding them to the Domain Admins group, you give that ac
 
 <p>
 <img width="473" height="150" alt="image" src="https://github.com/user-attachments/assets/41a9457d-ee45-4d9b-b992-5fdb5933d714" /> <img width="211" height="273" alt="image" src="https://github.com/user-attachments/assets/bc88e286-dbc2-4339-9e10-e2fa72d3f765" />
-<img width="365" height="127" alt="image" src="https://github.com/user-attachments/assets/5264b4a9-e67f-4691-990b-bf2d074658f1" /> <img width="495" height="364" alt="image" src="https://github.com/user-attachments/assets/a05bcd8d-b159-4e87-bce9-9c9360e969ac" />
+<img width="495" height="364" alt="image" src="https://github.com/user-attachments/assets/a05bcd8d-b159-4e87-bce9-9c9360e969ac" /> <img width="393" height="141" alt="image" src="https://github.com/user-attachments/assets/3a923451-a3a5-4f35-8a5e-0dd01944596f" />
+
 
 
 </p>
