@@ -24,8 +24,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Promote as a DC: Setup a new forest as mydomain.com
 - Create an Organizational Unit (OU) called “_EMPLOYEES” and a new OU named “_ADMINS”
 - Create a Domain Admin user within the domain
-- Create a new employee
-- Add jane_admin to the “Domain Admins” Security Group
+- Join Client-1 to your domain (mydomain.com)
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -75,18 +74,11 @@ Creating a new user and adding them to the Domain Admins group, you give that ac
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="473" height="150" alt="image" src="https://github.com/user-attachments/assets/41a9457d-ee45-4d9b-b992-5fdb5933d714" />
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+By joining Client-1 to mydomain.com, the machine is now managed by the Domain Controller. Users can log in with domain accounts, policies can be applied, and IT admins can centrally manage the computer. This step integrates Client-1 into the Active Directory environment, making it part of the secure, organized domain network.
 </p>
 <br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
