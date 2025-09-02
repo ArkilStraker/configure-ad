@@ -49,7 +49,8 @@ By promoting the server to a Domain Controller and creating a new forest named m
 <br />
 
 <p>
-<img width="563" height="441" alt="image" src="https://github.com/user-attachments/assets/c44c12f4-27be-42f0-84a9-b6138c160c72" /><img width="279" height="189" alt="image" src="https://github.com/user-attachments/assets/8b38c6e6-3f65-4a9c-a74d-dc9f0d6506e7" /><img width="293" height="188" alt="image" src="https://github.com/user-attachments/assets/91838074-7167-4da6-ac9f-5055272583f2" />
+<img width="563" height="441" alt="image" src="https://github.com/user-attachments/assets/c44c12f4-27be-42f0-84a9-b6138c160c72" />
+  <img width="279" height="189" alt="image" src="https://github.com/user-attachments/assets/8b38c6e6-3f65-4a9c-a74d-dc9f0d6506e7" /> <img width="293" height="188" alt="image" src="https://github.com/user-attachments/assets/91838074-7167-4da6-ac9f-5055272583f2" />
 
 
 </p>
@@ -59,7 +60,8 @@ By creating the _EMPLOYEES and _ADMINS OUs, you’ve structured your Active Dire
 <br />
 
 <p>
-<img width="368" height="324" alt="image" src="https://github.com/user-attachments/assets/77b22986-9cc1-4703-960f-6803429a535a" /><img width="281" height="296" alt="image" src="https://github.com/user-attachments/assets/66037c5b-7207-4345-a69c-41e340283995" /><img width="273" height="279" alt="image" src="https://github.com/user-attachments/assets/e853f93e-bf62-4daa-9f51-64e647f2ccb6" /><img width="211" height="310" alt="image" src="https://github.com/user-attachments/assets/4d8082eb-ccab-417f-a897-9342f7ba89e9" /><img width="230" height="340" alt="image" src="https://github.com/user-attachments/assets/78cd8095-ab14-4a45-b53b-6e701f0b4be2" />
+<img width="368" height="324" alt="image" src="https://github.com/user-attachments/assets/77b22986-9cc1-4703-960f-6803429a535a" /> <img width="281" height="296" alt="image" src="https://github.com/user-attachments/assets/66037c5b-7207-4345-a69c-41e340283995" />
+  <img width="273" height="279" alt="image" src="https://github.com/user-attachments/assets/e853f93e-bf62-4daa-9f51-64e647f2ccb6" /> <img width="211" height="310" alt="image" src="https://github.com/user-attachments/assets/4d8082eb-ccab-417f-a897-9342f7ba89e9" /> <img width="230" height="340" alt="image" src="https://github.com/user-attachments/assets/78cd8095-ab14-4a45-b53b-6e701f0b4be2" />
 
 
 
