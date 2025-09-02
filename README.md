@@ -30,7 +30,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img width="374" height="287" alt="image" src="https://github.com/user-attachments/assets/1fd6350f-89fb-4bb4-9684-835f4ba3e68f" /><img width="420" height="202" alt="image" src="https://github.com/user-attachments/assets/9117e333-22ff-4f65-b822-1c33f19d4585" />
+<img width="374" height="287" alt="image" src="https://github.com/user-attachments/assets/1fd6350f-89fb-4bb4-9684-835f4ba3e68f" /> <img width="420" height="202" alt="image" src="https://github.com/user-attachments/assets/9117e333-22ff-4f65-b822-1c33f19d4585" />
 
 
 </p>
@@ -40,7 +40,7 @@ Installing Active Directory Domain Services on a Windows Server VM transforms it
 <br />
 
 <p>
-<img width="349" height="137" alt="image" src="https://github.com/user-attachments/assets/c4b4b7b2-8fe1-47d4-a625-99158968cc77" /><img width="494" height="262" alt="image" src="https://github.com/user-attachments/assets/cc3fdedf-adb6-4e20-bb02-641f49dc1262" />
+<img width="349" height="137" alt="image" src="https://github.com/user-attachments/assets/c4b4b7b2-8fe1-47d4-a625-99158968cc77" /> <img width="494" height="262" alt="image" src="https://github.com/user-attachments/assets/cc3fdedf-adb6-4e20-bb02-641f49dc1262" />
 
 </p>
 <p>
@@ -50,6 +50,7 @@ By promoting the server to a Domain Controller and creating a new forest named m
 
 <p>
 <img width="563" height="441" alt="image" src="https://github.com/user-attachments/assets/c44c12f4-27be-42f0-84a9-b6138c160c72" />
+
   <img width="279" height="189" alt="image" src="https://github.com/user-attachments/assets/8b38c6e6-3f65-4a9c-a74d-dc9f0d6506e7" /> <img width="293" height="188" alt="image" src="https://github.com/user-attachments/assets/91838074-7167-4da6-ac9f-5055272583f2" />
 
 
