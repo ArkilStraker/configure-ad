@@ -26,7 +26,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Create a Domain Admin user within the domain
 - Join Client-1 to your domain (mydomain.com)
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>DConfiguration Steps</h2>
 
 <p>
 <img width="374" height="287" alt="image" src="https://github.com/user-attachments/assets/1fd6350f-89fb-4bb4-9684-835f4ba3e68f" /> <img width="420" height="202" alt="image" src="https://github.com/user-attachments/assets/9117e333-22ff-4f65-b822-1c33f19d4585" />
